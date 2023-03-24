@@ -5,7 +5,8 @@
 * @author Syntax Error
 */
 
-@import url("https://objectiveslayer.github.io/ComfyGray/addons/radial-status.css");
+/* radial status (currently bugged)
+@import url("https://objectiveslayer.github.io/ComfyGray/addons/radial-status.css"); */
 
 /* server Rings */
 @import url(//objectiveslayer.github.io/ComfyGray/addons/server-rings.css);
