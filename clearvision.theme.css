@@ -22,7 +22,7 @@
   --background-image: url('https://r4.wallpaperflare.com/wallpaper/428/317/278/albedo-overlord-overlord-anime-characters-anime-anime-girls-hd-wallpaper-4876cd0800509c38a0ac618e2802142a.jpg');
   --background-shading: 100%;
   --background-position: center;
-  --background-size: contain;
+  --background-size: cover;
   --background-repeat: no-repeat;
   --background-attachment: fixed;
   --background-brightness: 100%;
