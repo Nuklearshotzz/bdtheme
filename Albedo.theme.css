@@ -109,14 +109,18 @@
 }
 
 /* Remove Clear Vision Watermark */
-.wordmark-2u86JB:after {
-    display:none !important;
-}
-
 .wordmark-2u86JB:before{
     display:none !important;
 }
 
+.wordmark-2u86JB:after {
+    display:none !important;
+}
+
 .container-YkUktl:before {
+    display: none !important;
+}
+
+.container-YkUktl:after {
     display: none !important;
 }
