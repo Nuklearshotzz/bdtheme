@@ -110,11 +110,11 @@
 
 /* Remove Clear Vision Watermark */
 .wordmark-2u86JB:before{
-    display:none !important;
+    display: none !important;
 }
 
 .wordmark-2u86JB:after {
-    display:none !important;
+    display: none !important;
 }
 
 .container-YkUktl:before {
@@ -123,4 +123,8 @@
 
 .container-YkUktl:after {
     display: none !important;
+}
+
+.buttons-uaqb-5 > .button-ejjZWC {
+  display: none
 }
