@@ -102,10 +102,9 @@
 }
 
 /* Any custom CSS below here */
+
+/* makes memberlist transparent and adds a shadow to match background */
 .membersWrap-3NUR2t :where(.members-3WRCEx, .content-2a4AW9):not(#a){
   background-color: transparent !important;
+  box-shadow: inset 0 0 0 120px #0000007e;
  }
-
-.wordmarkWindows-2dq6rw .wordmark-2u86JB {
-  display: none !important;
-}
