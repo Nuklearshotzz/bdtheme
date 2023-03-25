@@ -102,8 +102,8 @@
 }
 
 /* Any custom CSS below here */
-.wrapper-1_HaEi{
-  background-color: transparent;
+.membersWrap-3NUR2t :where(.members-3WRCEx, .content-2a4AW9):not(#a){
+  background-color: transparent !important;
 }
 
 
