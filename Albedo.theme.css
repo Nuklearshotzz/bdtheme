@@ -8,7 +8,7 @@
  * @invite 7pNUC9C
 */
 
-@import url('https://raw.githubusercontent.com/Nuklearshotzz/bdtheme/main/test.css');
+@import url('https://clearvision.github.io/ClearVision-v6/main.css');
 /*@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css'); currently broken*/
 @import url('https://nyri4.github.io/Discolored/main.css');
 
@@ -63,7 +63,7 @@
   --idle-color: #FF9F00;
   --dnd-color: #850505;
   --streaming-color: #593695;
-  --offline-color: #000000;
+  --offline-color: #000000!important;
   --main-font: gg sans;
   --code-font: Consolas;
   --channels-width: 220px;
@@ -94,6 +94,7 @@
   --rs-online-color: #00FF0A;
   --rs-idle-color: #FF9F00;
   --rs-dnd-color: #FF0000;
+  --rs-offline-color: #000000 !important;
   --rs-streaming-color: #643da7;
   --rs-phone-visible: block;
   
@@ -124,6 +125,11 @@
     display: none !important;
 }
 
+/* remove gif, nitro and sticker button in chatbox */
 .buttons-uaqb-5 > .button-ejjZWC {
   display: none;
+}
+
+.button-2fCJ0o {
+    display:none;
 }
