@@ -98,9 +98,13 @@
   --offline-color: #000000;
   --rs-streaming-color: #643da7;
   --rs-phone-visible: block;
-  --memberlist-background: transparent
+  
 }
 
 /* Any custom CSS below here */
+.members-3WRCEx{
+  background-color: transparent;
+  opacity: calc(0%);
+}
 
 
