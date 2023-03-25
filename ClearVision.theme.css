@@ -104,12 +104,11 @@
 /* Any custom CSS below here */
 .membersWrap-3NUR2t :where(.members-3WRCEx, .content-2a4AW9):not(#a){
   background-color: transparent !important;
-  --background-brightness: 100% !important;
-  --background-contrast: 100% !important;
-  --background-saturation: 300% !important;
-  --background-grayscale: 0% !important;
-  --background-invert: 0% !important;
-  --background-blur: 0px !important;
+  border-radius: 4px;
+  border: 1px solid var(--background-tertiary);
+  padding-bottom: 4px;
+  margin-left: 8px;
 }
+
 
 
