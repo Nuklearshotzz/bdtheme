@@ -8,11 +8,6 @@
 /* server Rings */
 @import url(//objectiveslayer.github.io/ComfyGray/addons/server-rings.css);
 
-/* User Controls Area.. Looks super cool. */
-@import url(//objectiveslayer.github.io/ComfyGray/addons/user-controls.css);
-
-
-
 .invisible-typing-button {
   display:none
 }
