@@ -270,11 +270,6 @@
   padding-top: 10px;
 }
 
-/* remove friend list's search bar */
-.searchBarComponent-3N7dCG{
-  display: none;
-}
-
 /* Hide Help Button */
 .toolbar-3_r2xA a {display: none;}
 
