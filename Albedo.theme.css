@@ -94,7 +94,7 @@
   --rs-online-color: #00FF0A;
   --rs-idle-color: #FF9F00;
   --rs-dnd-color: #FF0000;
- /* --rs-offline-color: #000000 */
+  --rs-offline-color: #000000
   --rs-streaming-color: #643da7;
   --rs-phone-visible: block;
   
@@ -126,5 +126,5 @@
 }
 
 .buttons-uaqb-5 > .button-ejjZWC {
-  display: none
+  display: none;
 }
