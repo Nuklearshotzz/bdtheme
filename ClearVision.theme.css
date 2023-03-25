@@ -104,6 +104,7 @@
 /* Any custom CSS below here */
 .membersWrap-3NUR2t :where(.members-3WRCEx, .content-2a4AW9):not(#a){
   background-color: transparent !important;
+  padding: 40px !important;
  }
 
 .scroller-1ox3I2 {
